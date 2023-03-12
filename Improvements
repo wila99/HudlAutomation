@@ -1,0 +1,6 @@
+This can be improved by adding tests for different functionality including
+* Multiple sign in attempts
+* Change password once logged in and attempt to log in with the new password
+* Character length tests
+
+On top of the above I would have implemented a BDD solution such as Cucumber.
