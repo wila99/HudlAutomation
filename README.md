@@ -15,6 +15,8 @@ Automation tests for the Hudl Login page, testing the following features
 This was written using Python, with the following modules
 * Selenium
 * Unittest
+
+This also makes use of the following
 * chromium driver
 
 # Configuration
